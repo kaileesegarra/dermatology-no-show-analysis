@@ -4,7 +4,7 @@
 **Course:** CMPS 6790 – Data Science  
 
 🔗 **Live Project:**  
-https://kaileesegarra.github.io/medical-no-show-analysis/
+https://kaileesegarra.github.io/dermatology-no-show-analysis/
 
 ---
 
