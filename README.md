@@ -140,7 +140,3 @@ This model can support:
 Even simple, interpretable models like logistic regression can uncover meaningful patterns in patient behavior and provide actionable insights for improving healthcare operations.
 
 ---
-
-Feel free to connect or reach out:
-
-**Kailee Segarra**  
